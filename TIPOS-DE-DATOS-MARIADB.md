@@ -1,3 +1,4 @@
+````markdown name=Resumen-examen-modelado-datos.md
 # Tipos de datos en MariaDB
 (Numéricos, decimales exactos, flotantes y textos, con sintaxis y ejemplos.)
 
