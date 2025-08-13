@@ -6,7 +6,7 @@ Incluye ejercicios fáciles e intermedios/no tan intuitivos, con soluciones al f
 
 
 ============================================================
-A) Ejercicios FÁCILES (nivel 1)
+## A) Ejercicios FÁCILES (nivel 1)
 ============================================================
 
 1) 1FN (atomicidad de atributos)
@@ -62,7 +62,7 @@ Tareas:
 
 
 ============================================================
-B) Ejercicios INTERMEDIOS (nivel 2)
+## B) Ejercicios INTERMEDIOS (nivel 2)
 ============================================================
 
 5) Integridad de entidad y referencial
@@ -113,7 +113,7 @@ Tareas:
 
 
 ============================================================
-C) Ejercicios NO TAN INTUITIVOS (nivel 3)
+## C) Ejercicios NO TAN INTUITIVOS (nivel 3)
 ============================================================
 
 9) PK (elección y coherencia)
@@ -202,7 +202,7 @@ Tareas:
 
 
 ============================================================
-D) SOLUCIONES RESUMIDAS
+## D) SOLUCIONES RESUMIDAS
 ============================================================
 
 1) 1FN
@@ -319,7 +319,7 @@ D) SOLUCIONES RESUMIDAS
 
 
 ============================================================
-E) MINI-GUÍA “QUÉ MIRAR” EN CADA EJERCICIO
+## E) MINI-GUÍA “QUÉ MIRAR” EN CADA EJERCICIO
 ============================================================
 
 - 1FN: ¿hay listas en una columna? ¿atributos compuestos sin descomponer?
