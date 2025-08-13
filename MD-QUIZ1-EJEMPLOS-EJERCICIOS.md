@@ -1,3 +1,4 @@
+````markdown name=Resumen-examen-modelado-datos.md
 # Banco de ejercicios “a mano” — Modelo de Datos
 Basado en lo visto en las diapositivas: Conceptos generales, Tipos de datos (numéricos, flotantes, textos), PK, MER y Normalización (diapositiva 06 con ejemplos).  
 Formato pensado para examen escrito: enunciados, tablas “dibujadas”, identificar forma normal, integridad y tipos de datos.  
